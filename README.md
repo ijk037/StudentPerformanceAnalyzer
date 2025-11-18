@@ -141,6 +141,22 @@ The backend—built using Node.js, Express, and MongoDB—ensures secure authent
 
 # SCREENSHOTS
 
+### 1. System Architecture
+![System Architecture](images/image2.png)
+
+### 2. Student Login Page
+![Student Login Page](images/image3.png)
+
+### 3. Student Dashboard
+![Student Dashboard](images/image4.png)
+
+### 4. Faculty Login Page
+![Faculty Login Page](images/image5.png)
+
+### 5. Faculty Dashboard
+![Faculty Dashboard](images/image6.png)
+
+
 # BIBLIOGRPAHY/REFERENCES
 
 1.  1\. Ahmad, F., Ismail, N. H., & Aziz, A. A. (2015). Student performance prediction based on linear regression. Journal of Theoretical and Applied Information Technology, 78(3).
